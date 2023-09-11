@@ -1,0 +1,21 @@
+h1{
+background-color: black;
+text-align: left;
+color: white;
+}
+.cloud{
+    color: rgb(0, 247, 255);
+}
+
+h2{
+text-align: center;
+background-color: rgb(128, 0, 128);
+color: white;
+text-decoration: solid;
+font-style: italic;
+}
+h3{
+text-align: right;
+text-decoration: underline;
+background-color: rgba(99, 198, 226, 0.78);
+}
